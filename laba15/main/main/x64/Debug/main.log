@@ -1,0 +1,36 @@
+﻿Сборка начата 09.12.2023 15:01:57.
+Уровень детализации журнала: Normal.     1>Проект "E:\уник\ОАИП\laba15\main\main\main.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>_PrepareForClean:
+         Файл "x64\Debug\main.tlog\main.lastbuildstate" удаляется.
+       PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Создание "x64\Debug\main.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "x64\Debug\main.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt "12-1.hpp" main.cpp
+         12-1.hpp
+         main.cpp
+     1>E:\уник\ОАИП\laba15\main\main\12-2.hpp(7,12): warning C4101: count: неиспользованная локальная переменная
+         (компиляция исходного файла "main.cpp")
+         
+         Создание кода...
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\уник\ОАИП\laba15\main\x64\Debug\main.exe" /INCREMENTAL /ILK:"x64\Debug\main.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\уник\ОАИП\laba15\main\x64\Debug\main.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\уник\ОАИП\laba15\main\x64\Debug\main.lib" /MACHINE:X64 "x64\Debug\12-1.obj"
+         x64\Debug\main.obj
+         main.vcxproj -> E:\уник\ОАИП\laba15\main\x64\Debug\main.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\main.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\main.tlog\main.lastbuildstate".
+     1>Сборка проекта "E:\уник\ОАИП\laba15\main\main\main.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+
+       "E:\уник\ОАИП\laba15\main\main\main.vcxproj" (целевой объект Rebuild ) (1) ->
+       (Целевой объект ClCompile) -> 
+         E:\уник\ОАИП\laba15\main\main\12-2.hpp(7,12): warning C4101: count: неиспользованная локальная переменная
+
+    Предупреждений: 1
+    Ошибок: 0
+
+Прошло времени 00:00:01.64

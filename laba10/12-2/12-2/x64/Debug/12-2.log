@@ -1,0 +1,19 @@
+﻿Сборка начата 11.11.2023 15:12:53.
+Уровень детализации журнала: Normal.     1>Проект "E:\уник\ОАИП\laba10\12-2\12-2\12-2.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "x64\Debug\12-2.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\уник\ОАИП\laba10\12-2\x64\Debug\12-2.exe" /INCREMENTAL /ILK:"x64\Debug\12-2.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\уник\ОАИП\laba10\12-2\x64\Debug\12-2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\уник\ОАИП\laba10\12-2\x64\Debug\12-2.lib" /MACHINE:X64 "x64\Debug\12-2.obj"
+         12-2.vcxproj -> E:\уник\ОАИП\laba10\12-2\x64\Debug\12-2.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\12-2.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\12-2.tlog\12-2.lastbuildstate".
+     1>Сборка проекта "E:\уник\ОАИП\laba10\12-2\12-2\12-2.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.09
